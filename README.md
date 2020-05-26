@@ -1,2 +1,2 @@
-# Bouncing-annoying-ball
-An annoying bonuceing ball that dosen't come back
+# staticSquare
+A static square made using Matter.js physics engine
